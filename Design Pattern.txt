@@ -1,0 +1,4 @@
+Solid --> https://medium.com/@javatechie/solid-design-principle-java-ae96a48db97
+Observer --> https://medium.com/i%CC%87yi-programlama/observer-g%C3%B6zlemci-design-pattern-535df620b720
+Factory --> https://metinalniacik.medium.com/factory-design-pattern-tasar%C4%B1m-%C3%B6r%C3%BCnt%C3%BCs%C3%BC-e7b4bfa72205
+Singleton --> https://metinalniacik.medium.com/singleton-design-pattern-tasar%C4%B1m-%C3%B6r%C3%BCnt%C3%BCs%C3%BC-b7221929dc26
